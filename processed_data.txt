@@ -1,0 +1,80 @@
+Data Recorded on: Thu Nov 21 07:00:02 AM PKT 2024
+Temperature: -.29°C
+Humidity: 89%
+Pressure: 1008 hPa
+Wind Speed: 3.6 m/s
+Wind Direction: 220°
+Description: overcast clouds
+------------------------
+Data Recorded on: Fri Nov 22 12:00:07 AM PKT 2024
+Temperature: .35°C
+Humidity: 83%
+Pressure: 1000 hPa
+Wind Speed: 2.24 m/s
+Wind Direction: 307°
+Description: overcast clouds
+------------------------
+Data Recorded on: Fri Nov 22 12:15:02 AM PKT 2024
+Temperature: .16°C
+Humidity: 84%
+Pressure: 1000 hPa
+Wind Speed: 1.34 m/s
+Wind Direction: 315°
+Description: overcast clouds
+------------------------
+Data Recorded on: Fri Nov 22 12:30:03 AM PKT 2024
+Temperature: .13°C
+Humidity: 84%
+Pressure: 1000 hPa
+Wind Speed: 2.68 m/s
+Wind Direction: 299°
+Description: overcast clouds
+------------------------
+Data Recorded on: Fri Nov 22 12:45:02 AM PKT 2024
+Temperature: .02°C
+Humidity: 84%
+Pressure: 1000 hPa
+Wind Speed: 1.34 m/s
+Wind Direction: 314°
+Description: overcast clouds
+------------------------
+Data Recorded on: Fri Nov 22 01:00:03 AM PKT 2024
+Temperature: .18°C
+Humidity: 84%
+Pressure: 1000 hPa
+Wind Speed: 1.34 m/s
+Wind Direction: 237°
+Description: overcast clouds
+------------------------
+Data Recorded on: Fri Nov 22 09:00:02 PM PKT 2024
+Temperature: 6.28°C
+Humidity: 70%
+Pressure: 1011 hPa
+Wind Speed: 5.66 m/s
+Wind Direction: 270°
+Description: few clouds
+------------------------
+Data Recorded on: Fri Nov 22 09:34:03 PM PKT 2024
+Temperature: 6.05°C
+Humidity: 72%
+Pressure: 1011 hPa
+Wind Speed: 4.12 m/s
+Wind Direction: 280°
+Description: few clouds
+------------------------
+Data Recorded on: Fri Nov 22 09:36:03 PM PKT 2024
+Temperature: 6.05°C
+Humidity: 72%
+Pressure: 1011 hPa
+Wind Speed: 4.12 m/s
+Wind Direction: 280°
+Description: few clouds
+------------------------
+Data Recorded on: Fri Nov 22 09:38:02 PM PKT 2024
+Temperature: 5.95°C
+Humidity: 72%
+Pressure: 1011 hPa
+Wind Speed: 4.12 m/s
+Wind Direction: 280°
+Description: few clouds
+------------------------

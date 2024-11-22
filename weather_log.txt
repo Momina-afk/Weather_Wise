@@ -1,0 +1,42 @@
+Fetching data from OpenWeather API...
+Processing data...
+Temperature: 6.05°C
+Humidity: 72%
+Pressure: 1011 hPa
+Wind Speed: 4.12 m/s
+Wind Direction: 280°
+Description: few clouds
+Checking for critical conditions...
+Temperature is below 20°C! Triggering alert.
+Calculating averages...
+Average Temperature: 1.61°C
+Average Humidity: 81.25%
+Automation completed.
+Fetching data from OpenWeather API...
+Processing data...
+Temperature: 6.05°C
+Humidity: 72%
+Pressure: 1011 hPa
+Wind Speed: 4.12 m/s
+Wind Direction: 280°
+Description: few clouds
+Checking for critical conditions...
+Temperature is below 20°C! Triggering alert.
+Calculating averages...
+Average Temperature: 2.10°C
+Average Humidity: 80.22%
+Automation completed.
+Fetching data from OpenWeather API...
+Processing data...
+Temperature: 5.95°C
+Humidity: 72%
+Pressure: 1011 hPa
+Wind Speed: 4.12 m/s
+Wind Direction: 280°
+Description: few clouds
+Checking for critical conditions...
+Temperature is below 20°C! Triggering alert.
+Calculating averages...
+Average Temperature: 2.48°C
+Average Humidity: 79.40%
+Automation completed.
