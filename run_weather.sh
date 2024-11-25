@@ -43,7 +43,7 @@ calculate_averages() {
 }
 
 echo "Fetching data from OpenWeather API..."
-curl -s "http://api.openweathermap.org/data/2.5/weather?q=London&appid=4e095b67f35009fbcc6f055e6598c8c0" -o raw_data.json
+curl -s "http://api.openweathermap.org/data/2.5/weather?q=London&appid=YOUR_API_KEY" -o raw_data.json   #replace it with your api_key
 
 if [ $? -ne 0 ]; then
     echo "Error fetching data from OpenWeather API. Exiting."
