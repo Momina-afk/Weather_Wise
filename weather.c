@@ -57,7 +57,7 @@ int main() {
 
     curl = curl_easy_init();
     if (curl) {
-        const char *url = "http://api.openweathermap.org/data/2.5/weather?q=London&appid=YOUR_API_KEY";  #replace it with your api key
+        const char *url = "http://api.openweathermap.org/data/2.5/weather?q=London&appid=YOUR_API_KEY";  //replace it with your api key
         curl_easy_setopt(curl, CURLOPT_URL, url);
         curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, write_callback);
         res = curl_easy_perform(curl);
